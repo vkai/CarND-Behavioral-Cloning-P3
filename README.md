@@ -13,10 +13,10 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-[center]: ./data/IMG/center_2016_12_01_13_33_22_111.jpg "Center"
-[left]: ./data/IMG/left_2016_12_01_13_36_04_931.jpg "Left"
-[right]: ./data/IMG/right_2016_12_01_13_38_13_946.jpg "Right"
-[cropped]: ./cropped.png "Cropped"
+[center]: ./images/center.jpg "Center"
+[left]: ./images/left.jpg "Left"
+[right]: ./images/right.jpg "Right"
+[cropped]: ./images/cropped.png "Cropped"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
